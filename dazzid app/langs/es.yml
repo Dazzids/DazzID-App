@@ -1,0 +1,73 @@
+global:
+  appName: Dazz ID
+  logIn: Iniciar sesion
+  signUp: Crear cuenta
+  email: Correo electrónico
+  password: Contraseña
+  passwordConfirm: Confirmar contraseña
+  name: Nombre Completo
+  names: Nombre(s)
+  lastName: Apellido Paterno
+  mLastName: Apellido Materno
+  curp: CURP
+  rfc: RFC
+  age: Edad
+  buttonUpdate: Actualizar
+  buttonReturn: Regresar
+  inputRequired: El campo es requerido
+  messageSelectFile: Selecciona el tipo de documento a subir.
+  selectFile: Seleccionar Archivo
+  uploadFile: Subir Archivo
+  selectedFile: Sin informacion
+  share: Compartir
+welcome:
+  header: Únete a la comunidad
+  subHeader: Crea y firma credenciales Inteligentes para interactuar con empresas y escuelas.
+login:
+  header: Bienvenido
+  forgotAccount: ¿La has olvidado?
+  createAccount: ¿No tienes una cuenta? Crea una.
+  localizedReason: Escanea tu huella para verificar tu identidad
+  authorized: Autorizado
+  unAuthorized: No Autorizado
+signUp:
+  header: Crea tu cuenta
+  subHeader: Enviaremos un código de verificación para crear tu cuenta
+  toLogin: Ya tienes una cuenta? Inicia sesion
+verification:
+  header: Verificación por email
+  subHeader: Ingresa el codigo enviado a
+  resendCodeQ: No recibiste el código?
+  resendCode: REENVIAR
+  verify: Verificar
+  errorFill: Por favor ingresa los 6 digitos del codigo
+  waitEmail: Por favor verifica el correo que hemos enviado a  
+  verified: Email Verificado!!!
+errorMessages:
+  email: Correo no valido
+  password: Las contraseñas no coinciden
+  emptyField: El campo esta vacio.
+home:
+  academic: Credencial Académica
+  skill: Credencial Habilidades
+  work: Credencial Laboral
+  personal: Credencial Personal
+  dazz: Credencial Dazz
+  emision: 'Emisión: '
+  issuedCredentials: 'Credenciales Emitidas:'
+  requestedCredentials: 'Credenciales Solicitadas:'
+  requestedDocuments: 'Documentos Solicitados:'
+  noInfo: Sin Información
+userInfo:
+  header: 'Para completar el registro, llenemos algunos datos importantes:'
+  profile: Perfil
+buyDazz:
+  message: La credencial Dazz te permite subir y compartir cualquier cantidad y tipo de documento, para habilitar la credencial realiza el pago correspondiente.
+  buy: Comprar
+  paidMessage: "Tu compra fue acreditada, Ahora puedes usar la credencial Dazz"
+  pendingMessage: "Tu compra esta pendiente, espera a que se actualize"
+  unknownMessage: "Error en la respuesta de MercadoPago"
+updateInfo:
+  downloadAviso: Aviso de Privacidad Dazz.
+  downloadTerminos: Términos y Condiciones Dazz.
+  updateComplete: Datos actualizados

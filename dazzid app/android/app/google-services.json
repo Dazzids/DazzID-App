@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "538942342322",
+    "firebase_url": "https://dazzapp-e4537-default-rtdb.firebaseio.com",
+    "project_id": "dazzapp-e4537",
+    "storage_bucket": "dazzapp-e4537.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538942342322:android:0a29f9a5eeeac92dc675ab",
+        "android_client_info": {
+          "package_name": "com.dazz.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538942342322-pabegoadbjbklk05ceblsvsb3nf5jb84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL-wH4dcRN4KA8MSBPZgxF7T0Y6VfTiBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538942342322-pabegoadbjbklk05ceblsvsb3nf5jb84.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "538942342322-4jtuadc36d48ighkg890nvk0s4lu85ck.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dazz.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

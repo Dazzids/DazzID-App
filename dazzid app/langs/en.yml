@@ -1,0 +1,28 @@
+global:
+  appName: Dazz ID
+  logIn: Log In
+  signUp: Sign Up
+  email: Email
+  password: Password 
+  passwordConfirm: Confirm password
+welcome:
+  header: Únete a la comunidad
+  subHeader: Crea y firma credenciales Inteligentes para interactuar con empresas y escuelas.
+login:
+  header: Bienvenido
+  forgotAccount: ¿La has olvidado?
+  createAccount: ¿No tienes una cuenta? Crea una.
+signUp:
+  header: Crea tu cuenta
+  subHeader: Enviaremos un código de verificación para crear tu cuenta
+  toLogin: Ya tienes una cuenta? Inicia sesion
+verification:
+  header: Verificación por email
+  subHeader: Ingresa el codigo enviado a
+  resendCodeQ: No recibiste el código?
+  resendCode: REENVIAR
+  verify: Verificar
+errorMessages:
+  email: Correo no valido
+  password: Las contraseñas no coinciden
+

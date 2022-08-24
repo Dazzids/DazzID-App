@@ -1,0 +1,1165 @@
+{
+	"version": 24,
+	"artboards": [
+		{
+			"name": "Artboard",
+			"translation": [
+				0,
+				0
+			],
+			"width": 120,
+			"height": 120,
+			"origin": [
+				0.5,
+				0.5
+			],
+			"clipContents": true,
+			"color": [
+				0.364705890417099,
+				0.364705890417099,
+				0.364705890417099,
+				1
+			],
+			"nodes": [
+				{
+					"name": "Layer_1",
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						4,
+						4
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "Group",
+					"parent": 0,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-0.6000003814697266,
+						-8.280000686645508
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 1,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Color",
+					"parent": 2,
+					"opacity": 1,
+					"color": [
+						0,
+						0,
+						0,
+						1
+					],
+					"width": 4,
+					"cap": 1,
+					"join": 1,
+					"trim": 1,
+					"start": 0,
+					"end": 1,
+					"offset": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "Path",
+					"parent": 2,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": false,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								5.599999904632568,
+								0.6999999284744263
+							],
+							"in": [
+								5.599999904632568,
+								0.6999999284744263
+							],
+							"out": [
+								3.700000047683716,
+								-0.30000004172325134
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								0,
+								-0.7000000476837158
+							],
+							"in": [
+								2,
+								-0.7000000476837158
+							],
+							"out": [
+								-2,
+								-0.7000000476837158
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-5.599999904632568,
+								0.6999999284744263
+							],
+							"in": [
+								-3.9000000953674316,
+								-0.20000004768371582
+							],
+							"out": [
+								-5.599999904632568,
+								0.6999999284744263
+							]
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-0.6000003814697266,
+						-3.7300004959106445
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Color",
+					"parent": 5,
+					"opacity": 1,
+					"color": [
+						0,
+						0,
+						0,
+						1
+					],
+					"width": 4,
+					"cap": 1,
+					"join": 1,
+					"trim": 1,
+					"start": 0,
+					"end": 1,
+					"offset": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "Path",
+					"parent": 5,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": false,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								-8.899999618530273,
+								1.649999976158142
+							],
+							"in": [
+								-8.899999618530273,
+								1.649999976158142
+							],
+							"out": [
+								-7.900000095367432,
+								0.25
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-5.099999904632568,
+								-1.649999976158142
+							],
+							"in": [
+								-6.599999904632568,
+								-0.8500000238418579
+							],
+							"out": [
+								-2,
+								-3.25
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								5.099999904632568,
+								-1.5499999523162842
+							],
+							"in": [
+								2,
+								-3.25
+							],
+							"out": [
+								6.599999904632568,
+								-0.75
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								8.899999618530273,
+								1.649999976158142
+							],
+							"in": [
+								7.900000095367432,
+								0.3499999940395355
+							],
+							"out": [
+								8.899999618530273,
+								1.649999976158142
+							]
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-0.3000001907348633,
+						3.7699995040893555
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 3,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Color",
+					"parent": 8,
+					"opacity": 1,
+					"color": [
+						0,
+						0,
+						0,
+						1
+					],
+					"width": 4,
+					"cap": 1,
+					"join": 1,
+					"trim": 1,
+					"start": 0,
+					"end": 1,
+					"offset": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "Path",
+					"parent": 8,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": false,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								-2.500000238418579,
+								5.849999904632568
+							],
+							"in": [
+								-2.500000238418579,
+								5.849999904632568
+							],
+							"out": [
+								-3.3000001907348633,
+								5.050000190734863
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4.400000095367432,
+								3.3499999046325684
+							],
+							"in": [
+								-3.8000001907348633,
+								4.449999809265137
+							],
+							"out": [
+								-5.100000381469727,
+								2.1500000953674316
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-5.400000095367432,
+								-0.75
+							],
+							"in": [
+								-5.400000095367432,
+								0.75
+							],
+							"out": [
+								-5.400000095367432,
+								-3.549999952316284
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								-1.9073486612342094e-7,
+								-5.849999904632568
+							],
+							"in": [
+								-3.000000238418579,
+								-5.849999904632568
+							],
+							"out": [
+								2.999999761581421,
+								-5.849999904632568
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								5.399999618530273,
+								-0.75
+							],
+							"in": [
+								5.399999618530273,
+								-3.549999952316284
+							],
+							"out": [
+								5.399999618530273,
+								-0.75
+							]
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						2.1499996185302734,
+						5.2699995040893555
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 4,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Color",
+					"parent": 11,
+					"opacity": 1,
+					"color": [
+						0,
+						0,
+						0,
+						1
+					],
+					"width": 4,
+					"cap": 1,
+					"join": 1,
+					"trim": 1,
+					"start": 0,
+					"end": 1,
+					"offset": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "Path",
+					"parent": 11,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": false,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								3.3499999046325684,
+								2.549999952316284
+							],
+							"in": [
+								3.3499999046325684,
+								2.549999952316284
+							],
+							"out": [
+								2.75,
+								2.6500000953674316
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								2.1500000953674316,
+								2.6500000953674316
+							],
+							"in": [
+								2.25,
+								2.6500000953674316
+							],
+							"out": [
+								0.949999988079071,
+								2.6500000953674316
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-0.949999988079071,
+								1.75
+							],
+							"in": [
+								-0.05000000074505806,
+								2.3499999046325684
+							],
+							"out": [
+								-2.450000047683716,
+								0.75
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-3.3499999046325684,
+								-2.6500000953674316
+							],
+							"in": [
+								-3.3499999046325684,
+								-0.8500000238418579
+							],
+							"out": [
+								-3.3499999046325684,
+								-2.6500000953674316
+							]
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-0.6500005722045898,
+						2.969999313354492
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 5,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Color",
+					"parent": 14,
+					"opacity": 1,
+					"color": [
+						0,
+						0,
+						0,
+						1
+					],
+					"width": 4,
+					"cap": 1,
+					"join": 1,
+					"trim": 1,
+					"start": 0,
+					"end": 1,
+					"offset": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "Path",
+					"parent": 14,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": false,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								2.8500001430511475,
+								7.050000190734863
+							],
+							"in": [
+								2.8500001430511475,
+								7.050000190734863
+							],
+							"out": [
+								1.250000238418579,
+								6.650000095367432
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-0.8499997854232788,
+								4.950000286102295
+							],
+							"in": [
+								0.2500001788139343,
+								6.050000190734863
+							],
+							"out": [
+								-2.249999761581421,
+								3.5500001907348633
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-3.049999713897705,
+								-0.24999980628490448
+							],
+							"in": [
+								-3.049999713897705,
+								1.750000238418579
+							],
+							"out": [
+								-3.049999713897705,
+								-1.8499997854232788
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								0.05000019073486328,
+								-3.1499998569488525
+							],
+							"in": [
+								-1.6499998569488525,
+								-3.1499998569488525
+							],
+							"out": [
+								1.750000238418579,
+								-3.1499998569488525
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								3.0500001907348633,
+								-0.24999980628490448
+							],
+							"in": [
+								3.0500001907348633,
+								-1.9499998092651367
+							],
+							"out": [
+								3.0500001907348633,
+								0.8500002026557922
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								5.150000095367432,
+								1.6500002145767212
+							],
+							"in": [
+								3.950000286102295,
+								1.6500002145767212
+							],
+							"out": [
+								6.350000381469727,
+								1.6500002145767212
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								7.25,
+								-0.24999980628490448
+							],
+							"in": [
+								7.25,
+								0.7500001788139343
+							],
+							"out": [
+								7.25,
+								-4.049999713897705
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-0.04999981075525284,
+								-7.049999713897705
+							],
+							"in": [
+								3.950000286102295,
+								-7.049999713897705
+							],
+							"out": [
+								-2.8499999046325684,
+								-7.049999713897705
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-6.649999618530273,
+								-3.049999713897705
+							],
+							"in": [
+								-5.449999809265137,
+								-5.449999809265137
+							],
+							"out": [
+								-7.049999713897705,
+								-2.249999761581421
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-7.25,
+								-0.24999980628490448
+							],
+							"in": [
+								-7.25,
+								-1.249999761581421
+							],
+							"out": [
+								-7.25,
+								0.5500001907348633
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-6.549999713897705,
+								3.3500001430511475
+							],
+							"in": [
+								-7.149999618530273,
+								1.750000238418579
+							],
+							"out": [
+								-6.549999713897705,
+								3.3500001430511475
+							]
+						}
+					],
+					"type": "path"
+				}
+			],
+			"animations": [
+				{
+					"name": "process",
+					"fps": 60,
+					"duration": 1,
+					"isLooping": true,
+					"keyed": [
+						{
+							"component": 2
+						},
+						{
+							"component": 3,
+							"strokeEnd": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 0.8
+									}
+								]
+							],
+							"strokeOffset": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 0
+									},
+									{
+										"time": 1,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 1
+									}
+								]
+							]
+						},
+						{
+							"component": 5
+						},
+						{
+							"component": 6,
+							"strokeEnd": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 0.8
+									}
+								]
+							],
+							"strokeOffset": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 0
+									},
+									{
+										"time": 1,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 1
+									}
+								]
+							]
+						},
+						{
+							"component": 8
+						},
+						{
+							"component": 9,
+							"strokeEnd": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 0.8
+									}
+								]
+							],
+							"strokeOffset": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 0
+									},
+									{
+										"time": 1,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 1
+									}
+								]
+							]
+						},
+						{
+							"component": 11
+						},
+						{
+							"component": 12,
+							"strokeEnd": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 0.8
+									}
+								]
+							],
+							"strokeOffset": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 0
+									},
+									{
+										"time": 1,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 1
+									}
+								]
+							]
+						},
+						{
+							"component": 14
+						},
+						{
+							"component": 15,
+							"strokeEnd": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 0.8
+									}
+								]
+							],
+							"strokeOffset": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 0
+									},
+									{
+										"time": 1,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 1
+									}
+								]
+							]
+						}
+					],
+					"animationStart": 0,
+					"animationEnd": 1,
+					"type": "animation"
+				},
+				{
+					"name": "default",
+					"fps": 60,
+					"duration": 0.5,
+					"isLooping": false,
+					"keyed": [
+						{
+							"component": 2
+						},
+						{
+							"component": 3,
+							"strokeStart": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 1
+									},
+									{
+										"time": 0.5,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 0
+									}
+								]
+							]
+						},
+						{
+							"component": 5
+						},
+						{
+							"component": 6,
+							"strokeEnd": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 1
+									},
+									{
+										"time": 0.5,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 1
+									}
+								]
+							],
+							"strokeStart": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 1
+									},
+									{
+										"time": 0.5,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 0
+									}
+								]
+							]
+						},
+						{
+							"component": 8
+						},
+						{
+							"component": 9,
+							"strokeEnd": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 1,
+										"value": 0
+									},
+									{
+										"time": 0.5,
+										"interpolatorType": 1,
+										"value": 0
+									}
+								]
+							],
+							"strokeStart": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 1,
+										"value": 0
+									},
+									{
+										"time": 0.5,
+										"interpolatorType": 1,
+										"value": 1
+									}
+								]
+							]
+						},
+						{
+							"component": 11
+						},
+						{
+							"component": 12,
+							"strokeStart": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 1
+									},
+									{
+										"time": 0.5,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 0
+									}
+								]
+							]
+						},
+						{
+							"component": 14
+						},
+						{
+							"component": 15,
+							"strokeStart": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 1,
+										"value": 1
+									},
+									{
+										"time": 0.5,
+										"interpolatorType": 1,
+										"value": 0
+									}
+								]
+							]
+						}
+					],
+					"animationStart": 0,
+					"animationEnd": 0.5,
+					"type": "animation"
+				}
+			],
+			"type": "artboard"
+		}
+	]
+}
